@@ -1,3 +1,11 @@
+## [1.0.2] - 2024-11-29
+- patch version bump
+
+### New Commits
+9b43ffe Fixed: namespace removed Base to use root folder.
+7389eb2 Fixed: Removed Base from namespace
+0794e0e Bump version to  1.0.1
+
 ## [1.0.1] - 2024-11-29
 - patch version bump
 
