@@ -7,7 +7,7 @@ abstract class BoraService
     private $onFailure;
     private $backLink;
     
-    private $apiKey;
+    private $apiKey; 
     private $userID;
     private $displayName;
     
