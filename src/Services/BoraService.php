@@ -1,5 +1,5 @@
 <?php
-namespace ILEBORA\Base;
+namespace ILEBORA\Services;
 
 abstract class BoraService
 {
@@ -63,7 +63,7 @@ abstract class BoraService
         $this->onFailure = $onFailure;
         return $this;
     }
-    
+
 
     /**
      * Helper method to make HTTP POST requests.

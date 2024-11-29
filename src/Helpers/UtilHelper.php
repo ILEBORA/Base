@@ -1,5 +1,5 @@
 <?php
-namespace ILEBORA\Base\Helpers;
+namespace ILEBORA\Helpers;
 
 class UtilHelper
 {
