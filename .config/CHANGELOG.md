@@ -1,3 +1,10 @@
+## [1.0.3] - 2024-11-29
+- patch version bump
+
+### New Commits
+b0c3f65 Fixed: changed BoraService variables to protected.
+c86304d Bump version to  1.0.2
+
 ## [1.0.2] - 2024-11-29
 - patch version bump
 
