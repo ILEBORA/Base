@@ -3,16 +3,16 @@ namespace ILEBORA\Services;
 
 abstract class BoraService
 {
-    private $onSuccess;
-    private $onFailure;
-    private $backLink;
+    protected $onSuccess;
+    protected $onFailure;
+    protected $backLink;
     
-    private $apiKey; 
-    private $userID;
-    private $displayName;
+    protected $apiKey; 
+    protected $userID;
+    protected $displayName;
     
-    private $apiUrl = 'https://api.boracore.co.ke/v';
-    private $apiVersion = '1.1'; // Default version
+    protected $apiUrl = 'https://api.boracore.co.ke/v';
+    protected $apiVersion = '1.1'; // Default version
 
     public function __construct()
     {
